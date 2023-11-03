@@ -13,4 +13,3 @@ How to compile:
   2.  gcc "name of the project".c -o main
   3.  .\main.exe
 
-Credits to BroCode Youtube Channel.
