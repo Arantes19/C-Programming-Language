@@ -12,3 +12,5 @@ How to compile:
   1.  Open terminal (ctrl + ç)
   2.  gcc "name of the project".c -o main
   3.  .\main.exe
+
+Credits to BroCode Youtube Channel.
